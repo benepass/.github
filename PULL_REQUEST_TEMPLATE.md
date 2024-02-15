@@ -11,7 +11,7 @@
 
 ## Summary: what does this PR do?
 > **What does this pull-request fix/improve/add?**  
-> Provide a 2-sentence summary/overview of the changes.
+> Provide a bullet point summary of the changes that you've made
 
 **YOU MUST WRITE HERE**  
 
