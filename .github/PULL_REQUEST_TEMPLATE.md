@@ -12,7 +12,7 @@ List any systems, components, or API's that are [potentially] impacted.
 2. Open Ops Dash
 3. Test the new search with X, Y, Z params.
 
-## Screenshots
+## Screenshots (If applicable)
 
 Add any screenshots, test outputs, or before/after comparisons.
 
